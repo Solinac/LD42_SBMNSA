@@ -330,3 +330,378 @@ LogInit: Object subsystem initialized
 [2018.08.11-10.53.27:656][  1]LogAssetRegistry: Asset discovery search completed in 5.0864 seconds
 [2018.08.11-10.53.27:657][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.08.11-10.53.27:657][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.08.11-10.57.00:280][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.17.26:102][254]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.11-11.17.26:107][254]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Background/SPT_Background.SPT_Background
+[2018.08.11-11.17.26:182][254]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.11-11.17.26:302][254]LogRenderer: Reallocating scene render targets to support 3056x1948 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-11.17.28:461][469]LogSlate: Window 'SPT_Background*' being destroyed
+[2018.08.11-11.17.28:465][469]LogSlate: Window 'SPT_Background*' being destroyed
+[2018.08.11-11.17.54:393][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.035
+[2018.08.11-11.17.54:395][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LD42/Ingredients/Background/SPT_Background] ([1] browsable assets)...
+[2018.08.11-11.17.54:403][688]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/LD42/Ingredients/Background/SPT_Background.SPT_Background]
+[2018.08.11-11.17.54:403][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/LD42/Ingredients/Background/SPT_Background]
+[2018.08.11-11.17.54:410][688]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_Background_Auto1D1E49BE34D6CC3ADC3CBB3A4958CF3F9.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/Autosaves/Game/LD42/Ingredients/Background/SPT_Background_Auto1.uasset'
+[2018.08.11-11.17.54:411][688]LogFileHelpers: Auto-saving content packages took 0.018
+[2018.08.11-11.18.30:171][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.18.36:395][ 56]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.jpg)
+[2018.08.11-11.18.36:426][ 56]LogTexture: Display: Building textures: BackgroundPH (AutoDXT, 1920X1080)
+[2018.08.11-11.18.36:904][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.18.37:849][160]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.11-11.18.41:010][300]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Background/SPT_Background.SPT_Background
+[2018.08.11-11.18.46:659][775]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_Background9D2548DA424686BF1C431691916409D0.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/SPT_Background.uasset'
+[2018.08.11-11.18.53:155][445]LogAssetEditorManager: Opening Asset editor for World /Game/LD42/Maps/GameMap.GameMap
+[2018.08.11-11.18.55:625][445]LogSlate: Window 'Save Content' being destroyed
+[2018.08.11-11.18.55:828][445]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BackgroundPHC67DBBB84ACD119282DCC7A45D085A28.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.uasset'
+[2018.08.11-11.18.55:977][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-11.18.56:015][445]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap33B68D8F487D72FE4EA497A323FD8F80.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
+[2018.08.11-11.18.56:017][445]LogFileHelpers: Saving map 'GameMap' took 0.185
+[2018.08.11-11.18.56:020][445]Cmd: MAP LOAD FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.11-11.18.56:020][445]LightingResults: New page: Lighting Build
+[2018.08.11-11.18.56:021][445]LoadErrors: New page: Loading map: GameMap.umap
+[2018.08.11-11.18.56:022][445]MapCheck: New page: Map Check
+[2018.08.11-11.18.56:022][445]LightingResults: New page: Lighting Build
+[2018.08.11-11.18.56:050][445]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.11-11.18.56:050][445]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.18.56:094][445]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.11-11.18.56:211][445]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117,067ms to complete.
+[2018.08.11-11.18.56:212][445]LogFileHelpers: Loading map 'GameMap' took 0.193
+[2018.08.11-11.19.07:090][679]LogEditorViewport: Clicking Background
+[2018.08.11-11.19.09:329][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.19.09:388][950]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.19.09:403][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.19.09:415][950]PIE: New page: PIE session: GameMap (11 août 2018 15:19:09)
+[2018.08.11-11.19.09:415][950]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.19.09:416][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000675s)
+[2018.08.11-11.19.09:416][950]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.19.09:416][950]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.08.11-11.19.09:417][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001488s)
+[2018.08.11-11.19.09:450][950]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.19.09:461][950]LogInit: FAudioDevice initialized.
+[2018.08.11-11.19.09:505][950]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.19.09:507][950]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.19.09
+[2018.08.11-11.19.09:507][950]LogWorld: Bringing up level for play took: 0.000490
+[2018.08.11-11.19.09:534][950]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.08.11-11.19.09:536][950]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,324
+[2018.08.11-11.19.10:326][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.19.10:355][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.19.10:390][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.19.10:433][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.08.11-11.19.20:982][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.19.26:964][961]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2018.08.11-11.19.27:425][961]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.08.11-11.19.30:472][237]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2018.08.11-11.19.30:475][237]LogSlate: Window '2DSideScrollerGameMode' being destroyed
+[2018.08.11-11.19.33:370][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.19.46:942][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.19.55:831][163]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.11-11.19.56:444][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.20.10:712][310]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.11-11.20.10:738][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.20.18:881][284]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LD42/Ingredients/Character/BP_MainCharacter.BP_MainCharacter
+[2018.08.11-11.21.02:747][889]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.jpg)
+[2018.08.11-11.21.02:750][889]LogTexture: Display: Building textures: CharacterPH (BGRA8, 260X261)
+[2018.08.11-11.21.02:777][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.21.29:825][936]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Character/SPT_MainCharacter.SPT_MainCharacter
+[2018.08.11-11.21.32:653][220]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_MainCharacter2A14C56C4172E19324A4F3973B742C3C.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/SPT_MainCharacter.uasset'
+[2018.08.11-11.21.37:782][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.21.37:841][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.21.39:314][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.21.39:908][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.21.41:949][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.21.42:312][261]BlueprintLog: New page: Compile BP_MainCharacter
+[2018.08.11-11.21.43:024][312]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BP_MainCharacterD30A52D84AAB295889106DA020F1CA49.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/BP_MainCharacter.uasset'
+[2018.08.11-11.21.45:636][547]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (SPT_Background)
+[2018.08.11-11.21.46:755][642]LogEditorViewport: Clicking Background
+[2018.08.11-11.21.48:312][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.21.48:438][816]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/LD42/Ingredients/Character/CharacterPH.CharacterPH
+[2018.08.11-11.21.48:444][816]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.11-11.22.39:958][435]LogEditorViewport: Clicking on Actor (LMB): BP_MainCharacter_C (BP_MainCharacter)
+[2018.08.11-11.22.41:151][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.22.41:224][540]LogSlate: Window 'CharacterPH*' being destroyed
+[2018.08.11-11.22.41:227][540]LogSlate: Window 'CharacterPH*' being destroyed
+[2018.08.11-11.22.42:587][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.22.47:403][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/LD42/Ingredients/Character/BP_MainCharacter.BP_MainCharacter
+[2018.08.11-11.22.53:896][387]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.11-11.22.54:396][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.22.56:339][434]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.11-11.22.56:801][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.22.56:936][479]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Character/SPT_MainCharacter.SPT_MainCharacter
+[2018.08.11-11.23.00:397][760]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_MainCharacterC606B2E7422ECDC8E8A2C78771313A0D.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/SPT_MainCharacter.uasset'
+[2018.08.11-11.23.01:913][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.23.03:086][902]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.11-11.23.03:106][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.03:135][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.03:855][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.23.05:073][959]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.png)
+[2018.08.11-11.23.05:079][959]LogTexture: Display: Building textures: CharacterPH (BGRA8, 500X365)
+[2018.08.11-11.23.05:110][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.26:250][831]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_MainCharacterA8E9C38149C2613B43BC8B81458CB5C9.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/SPT_MainCharacter.uasset'
+[2018.08.11-11.23.36:564][707]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.40:679][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.40:724][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.42:889][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-11.23.42:900][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-11.23.42:938][217]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap3FDADB3C4A44947163C4D8B93EA121C8.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
+[2018.08.11-11.24.39:181][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.24.39:220][651]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.24.39:235][651]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.11-11.24.39:236][651]LogPlayLevel: [PlayLevel] Compiling BP_MainCharacter before play...
+[2018.08.11-11.24.39:447][651]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2018.08.11-11.24.39:447][651]PIE: New page: PIE session: GameMap (11 août 2018 15:24:39)
+[2018.08.11-11.24.39:447][651]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.24.39:448][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000907s)
+[2018.08.11-11.24.39:449][651]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.24.39:449][651]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.08.11-11.24.39:449][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001739s)
+[2018.08.11-11.24.39:487][651]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.24.39:497][651]LogInit: FAudioDevice initialized.
+[2018.08.11-11.24.39:524][651]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.24.39:525][651]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.24.39
+[2018.08.11-11.24.39:526][651]LogWorld: Bringing up level for play took: 0.000752
+[2018.08.11-11.24.39:539][651]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,353
+[2018.08.11-11.24.40:429][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.24.40:460][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.24.40:494][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.24.40:533][743]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.08.11-11.25.16:571][635]BlueprintLog: New page: Compile BP_MainCharacter
+[2018.08.11-11.25.17:097][673]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BP_MainCharacter8C3F70CF43109A2875FC41950ABAAB85.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/BP_MainCharacter.uasset'
+[2018.08.11-11.25.18:422][826]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.25.18:437][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.25.18:437][826]PIE: New page: PIE session: GameMap (11 août 2018 15:25:18)
+[2018.08.11-11.25.18:437][826]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.25.18:438][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000911s)
+[2018.08.11-11.25.18:438][826]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.25.18:439][826]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2018.08.11-11.25.18:439][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001669s)
+[2018.08.11-11.25.18:471][826]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.25.18:480][826]LogInit: FAudioDevice initialized.
+[2018.08.11-11.25.18:509][826]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.25.18:511][826]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.25.18
+[2018.08.11-11.25.18:511][826]LogWorld: Bringing up level for play took: 0.001352
+[2018.08.11-11.25.18:527][826]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap -0,658
+[2018.08.11-11.25.19:252][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.25.19:291][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.25.19:332][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.25.19:360][905]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.08.11-11.25.21:468][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.25.21:535][158]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.25.21:545][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.25.21:545][158]PIE: New page: PIE session: GameMap (11 août 2018 15:25:21)
+[2018.08.11-11.25.21:545][158]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.25.21:546][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000871s)
+[2018.08.11-11.25.21:547][158]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.25.21:547][158]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.08.11-11.25.21:547][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001619s)
+[2018.08.11-11.25.21:580][158]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.25.21:588][158]LogInit: FAudioDevice initialized.
+[2018.08.11-11.25.21:618][158]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.25.21:619][158]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.25.21
+[2018.08.11-11.25.21:619][158]LogWorld: Bringing up level for play took: 0.000621
+[2018.08.11-11.25.21:633][158]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,448
+[2018.08.11-11.25.22:399][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.25.22:431][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.25.22:458][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.25.22:503][248]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.08.11-11.26.03:729][331]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.11-11.26.19:593][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-11.26.19:632][735]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap7AE513B74A3A388BAEE4D1BDAEAA2628.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
+[2018.08.11-11.26.20:773][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.26.20:783][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.26.20:783][829]PIE: New page: PIE session: GameMap (11 août 2018 15:26:20)
+[2018.08.11-11.26.20:783][829]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.26.20:784][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2018.08.11-11.26.20:785][829]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.26.20:785][829]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.08.11-11.26.20:785][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001641s)
+[2018.08.11-11.26.20:821][829]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.26.20:830][829]LogInit: FAudioDevice initialized.
+[2018.08.11-11.26.20:861][829]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.26.20:862][829]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.26.20
+[2018.08.11-11.26.20:863][829]LogWorld: Bringing up level for play took: 0.000646
+[2018.08.11-11.26.20:876][829]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap -0,306
+[2018.08.11-11.26.22:084][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.26.22:118][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.26.22:153][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.26.22:192][934]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.08.11-11.26.32:889][112]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2018.08.11-11.26.57:122][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.27.03:229][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.27.11:570][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.27.27:425][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.27.53:970][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.27.54:034][551]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.27.54:047][551]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.11-11.27.54:049][551]LogPlayLevel: [PlayLevel] Compiling BP_MainCharacter before play...
+[2018.08.11-11.27.54:191][551]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (1 blueprints)
+[2018.08.11-11.27.54:191][551]PIE: New page: PIE session: GameMap (11 août 2018 15:27:54)
+[2018.08.11-11.27.54:191][551]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.27.54:193][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2018.08.11-11.27.54:193][551]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.27.54:194][551]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2018.08.11-11.27.54:194][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.002477s)
+[2018.08.11-11.27.54:261][551]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.27.54:270][551]LogInit: FAudioDevice initialized.
+[2018.08.11-11.27.54:305][551]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.27.54:307][551]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.27.54
+[2018.08.11-11.27.54:308][551]LogWorld: Bringing up level for play took: 0.001611
+[2018.08.11-11.27.54:321][551]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 1,145
+[2018.08.11-11.27.55:009][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.27.55:041][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.27.55:090][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.27.55:114][626]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.08.11-11.27.56:397][774]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.08.11-11.28.01:459][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.28.27:295][279]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap
+[2018.08.11-11.29.14:474][811]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.11-11.29.53:313][868]BlueprintLog: New page: Compile BP_MainCharacter
+[2018.08.11-11.29.54:482][950]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.29.54:503][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.29.54:503][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.29.54:503][950]PIE: New page: PIE session: GameMap (11 août 2018 15:29:54)
+[2018.08.11-11.29.54:503][950]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.29.54:505][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001279s)
+[2018.08.11-11.29.54:505][950]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.29.54:505][950]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.08.11-11.29.54:505][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.002043s)
+[2018.08.11-11.29.54:573][950]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.29.54:582][950]LogInit: FAudioDevice initialized.
+[2018.08.11-11.29.54:618][950]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.29.54:620][950]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.29.54
+[2018.08.11-11.29.54:620][950]LogWorld: Bringing up level for play took: 0.001223
+[2018.08.11-11.29.54:635][950]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap -0,535
+[2018.08.11-11.29.54:635][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.29.55:081][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.29.55:081][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.29.55:114][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.29.55:114][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.29.55:146][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.29.55:180][993]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.08.11-11.29.56:075][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_MainCharacter_C (BP_MainCharacter)
+[2018.08.11-11.29.58:885][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.29.59:640][319]BlueprintLog: New page: Compile BP_MainCharacter
+[2018.08.11-11.30.00:247][336]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BP_MainCharacterE6C6F27F43CF29AAE25BBCA3A7C280DB.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/BP_MainCharacter.uasset'
+[2018.08.11-11.30.05:716][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.30.05:795][713]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.30.05:814][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.30.05:814][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.30.05:814][713]PIE: New page: PIE session: GameMap (11 août 2018 15:30:05)
+[2018.08.11-11.30.05:815][713]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.30.05:816][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2018.08.11-11.30.05:816][713]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.30.05:816][713]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.08.11-11.30.05:816][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.001962s)
+[2018.08.11-11.30.05:857][713]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.30.05:866][713]LogInit: FAudioDevice initialized.
+[2018.08.11-11.30.05:894][713]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.30.05:896][713]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.30.05
+[2018.08.11-11.30.05:896][713]LogWorld: Bringing up level for play took: 0.001490
+[2018.08.11-11.30.05:910][713]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,741
+[2018.08.11-11.30.05:910][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.30.06:743][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.30.06:743][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.30.06:776][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.30.06:777][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.30.06:809][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.30.06:854][794]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.08.11-11.30.09:112][ 30]LogEditorViewport: Clicking on Actor (LMB): BP_MainCharacter_C (BP_MainCharacter)
+[2018.08.11-11.30.11:318][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.30.54:478][407]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.08.11-11.30.55:474][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.30.58:802][751]BlueprintLog: New page: Compile GameMap
+[2018.08.11-11.30.59:405][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-11.30.59:574][785]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap405519ED47210AD41F573BAC11CB5739.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
+[2018.08.11-11.30.59:592][785]LogFileHelpers: Saving map 'GameMap' took 0.316
+[2018.08.11-11.31.00:319][844]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.31.00:332][844]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.00:332][844]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.11-11.31.00:334][844]LogPlayLevel: [PlayLevel] Compiling BP_MainCharacter before play...
+[2018.08.11-11.31.00:475][844]LogPlayLevel: PlayLevel: Blueprint regeneration took 142 ms (1 blueprints)
+[2018.08.11-11.31.00:475][844]PIE: New page: PIE session: GameMap (11 août 2018 15:31:00)
+[2018.08.11-11.31.00:475][844]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.31.00:476][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001319s)
+[2018.08.11-11.31.00:477][844]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.31.00:477][844]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2018.08.11-11.31.00:477][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.002061s)
+[2018.08.11-11.31.00:541][844]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.31.00:550][844]LogInit: FAudioDevice initialized.
+[2018.08.11-11.31.00:583][844]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.31.00:585][844]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.31.00
+[2018.08.11-11.31.00:586][844]LogWorld: Bringing up level for play took: 0.001523
+[2018.08.11-11.31.00:601][844]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap -0,567
+[2018.08.11-11.31.00:601][844]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.01:818][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.01:818][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.01:850][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.31.01:850][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.01:881][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.01:937][977]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.08.11-11.31.04:922][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.11-11.31.05:077][293]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap836DDB754D84B37682F64189CDDC5F5A.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
+[2018.08.11-11.31.05:104][293]LogFileHelpers: Saving map 'GameMap' took 0.296
+[2018.08.11-11.31.06:040][392]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.31.06:060][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.06:060][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.31.06:060][392]PIE: New page: PIE session: GameMap (11 août 2018 15:31:06)
+[2018.08.11-11.31.06:060][392]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.31.06:062][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001335s)
+[2018.08.11-11.31.06:062][392]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.31.06:062][392]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.08.11-11.31.06:062][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.002091s)
+[2018.08.11-11.31.06:099][392]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.31.06:107][392]LogInit: FAudioDevice initialized.
+[2018.08.11-11.31.06:141][392]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.31.06:142][392]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.31.06
+[2018.08.11-11.31.06:143][392]LogWorld: Bringing up level for play took: 0.000709
+[2018.08.11-11.31.06:155][392]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,988
+[2018.08.11-11.31.06:155][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.12:277][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.12:278][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.12:318][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.31.12:318][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.12:357][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.12:390][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.08.11-11.31.13:377][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.31.35:524][378]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.11-11.31.35:538][378]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.35:538][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.11-11.31.35:538][378]PIE: New page: PIE session: GameMap (11 août 2018 15:31:35)
+[2018.08.11-11.31.35:538][378]LogPlayLevel: Creating play world package: /Game/LD42/Maps/UEDPIE_0_GameMap
+[2018.08.11-11.31.35:540][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001343s)
+[2018.08.11-11.31.35:540][378]LogAIModule: Creating AISystem for world GameMap
+[2018.08.11-11.31.35:540][378]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.08.11-11.31.35:540][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LD42/Maps/GameMap.GameMap to /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap (0.002098s)
+[2018.08.11-11.31.35:577][378]LogInit: XAudio2 using 'Haut-parleurs (Turtle Beach P11 Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.11-11.31.35:586][378]LogInit: FAudioDevice initialized.
+[2018.08.11-11.31.35:614][378]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.08.11-11.31.35:615][378]LogWorld: Bringing World /Game/LD42/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.08.11-13.31.35
+[2018.08.11-11.31.35:615][378]LogWorld: Bringing up level for play took: 0.000689
+[2018.08.11-11.31.35:628][378]PIE: Play in editor start time for /Game/LD42/Maps/UEDPIE_0_GameMap 0,462
+[2018.08.11-11.31.35:628][378]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.36:321][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.36:322][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.36:361][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.11-11.31.36:361][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel' has LevelScriptBlueprint '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap' with GeneratedClass '/Game/LD42/Maps/GameMap.GameMap_C' with ClassGeneratedBy '/Game/LD42/Maps/GameMap.GameMap:PersistentLevel.GameMap'
+[2018.08.11-11.31.36:391][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.11-11.31.36:422][434]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.08.11-11.31.39:264][626]LogSlate: Window 'Save Content' being destroyed
+[2018.08.11-11.31.39:304][626]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/2DSideScrollerGameMode9D49076C416834500B6DE8ACCA4D1585.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2018.08.11-11.31.39:325][626]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BP_MainCharacter0E3AD19147490DEF79B791A9FABB23A3.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/BP_MainCharacter.uasset'
+[2018.08.11-11.31.39:355][626]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/CharacterPH1119F7634D876852DCE8F3B1CDFD5283.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.uasset'
+[2018.08.11-11.34.26:117][967]AssetReimport: New page: Outstanding source content changes 15:34:26
+[2018.08.11-11.34.26:123][967]LogEditorFactories: Performing atomic reimport of [C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.jpg]
+[2018.08.11-11.34.26:123][967]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.jpg)
+[2018.08.11-11.34.26:130][967]LogEditorFactories: -- imported successfully
+[2018.08.11-11.34.26:158][968]LogEditorFactories: Performing atomic reimport of [C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.png]
+[2018.08.11-11.34.26:159][968]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.png)
+[2018.08.11-11.34.26:169][968]LogEditorFactories: -- imported successfully
+[2018.08.11-11.34.26:185][969]LogEditorFactories: Performing atomic reimport of [C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.jpg]
+[2018.08.11-11.34.26:186][969]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.jpg)
+[2018.08.11-11.34.26:646][969]LogEditorFactories: -- imported successfully
+[2018.08.11-11.34.26:948][970]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/BackgroundPH95C5C75D4123873A5D343BA489D27F25.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.uasset'
+[2018.08.11-11.34.29:967][297]AssetReimport: Reimported asset CharacterPH from C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.jpg.
+[2018.08.11-11.34.29:967][297]AssetReimport: Reimported asset CharacterPH from C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/CharacterPH.png.
+[2018.08.11-11.34.29:967][297]AssetReimport: Reimported asset BackgroundPH from C:/PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Background/BackgroundPH.jpg.
+[2018.08.11-11.34.29:968][298]LogEditorViewport: Clicking on Actor (LMB): BP_MainCharacter_C (BP_MainCharacter)
+[2018.08.11-11.34.32:284][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-11.35.12:002][277]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/SPT_MainCharacter22F6DEA847B83525CD60D3AE6752C735.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Ingredients/Character/SPT_MainCharacter.uasset'
