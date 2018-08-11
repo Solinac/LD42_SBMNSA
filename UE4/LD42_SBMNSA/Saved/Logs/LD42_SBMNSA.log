@@ -754,3 +754,37 @@ LogInit: Object subsystem initialized
 [2018.08.11-10.38.52:772][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LD42/Maps/GameMap" FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.08.11-10.38.52:815][580]LogSavePackage: Moving '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Saved/GameMap22B1B54E4A9B9294C229E9BF281EE838.tmp' to '../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/LD42/Maps/GameMap.umap'
 [2018.08.11-10.38.52:827][580]LogFileHelpers: Saving map 'GameMap' took 0.186
+[2018.08.11-10.39.36:859][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.40.15:697][323]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Background/NewPaperSprite.NewPaperSprite
+[2018.08.11-10.40.15:853][324]LogRenderer: Reallocating scene render targets to support 3056x1948 Format 10 NumSamples 1 (Frame:1).
+[2018.08.11-10.40.19:782][776]LogSlate: Window 'NewPaperSprite*' being destroyed
+[2018.08.11-10.40.19:786][776]LogSlate: Window 'NewPaperSprite*' being destroyed
+[2018.08.11-10.40.20:756][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.40.28:081][750]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2018.08.11-10.40.28:085][750]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2018.08.11-10.40.29:819][750]LogSlate: Window 'Save Content' being destroyed
+[2018.08.11-10.40.29:822][750]Cmd: MAP LOAD FILE="../../../../../../PersonalProjects/LD42_SBMNSA/UE4/LD42_SBMNSA/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.11-10.40.29:824][750]LightingResults: New page: Lighting Build
+[2018.08.11-10.40.29:825][750]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2018.08.11-10.40.29:826][750]MapCheck: New page: Map Check
+[2018.08.11-10.40.29:826][750]LightingResults: New page: Lighting Build
+[2018.08.11-10.40.29:864][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.11-10.40.29:907][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.11-10.40.30:034][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127,172ms to complete.
+[2018.08.11-10.40.30:035][750]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.214
+[2018.08.11-10.40.31:083][872]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.11-10.40.35:890][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.40.35:958][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-10.40.36:948][539]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2018.08.11-10.40.44:103][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.11-10.40.57:991][609]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2018.08.11-10.40.58:492][656]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.11-10.41.13:971][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.41.14:084][283]LogSlate: Window 'Background_Sprite' being destroyed
+[2018.08.11-10.41.15:337][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.41.28:132][962]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2018.08.11-10.41.37:577][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.42.41:581][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.11-10.42.48:280][378]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/LD42/Ingredients/Background/NewPaperSprite.NewPaperSprite
+[2018.08.11-10.42.50:732][593]LogSlate: Window 'NewPaperSprite*' being destroyed
+[2018.08.11-10.42.50:736][593]LogSlate: Window 'NewPaperSprite*' being destroyed
