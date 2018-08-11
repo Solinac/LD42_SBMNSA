@@ -1,2 +1,9 @@
 
+<<<<<<< HEAD
 *.log
+=======
+UE4/LD42_SBMNSA/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+UE4/LD42_SBMNSA/Saved/Logs/LD42_SBMNSA.log
+UE4/LD42_SBMNSA/Saved/Autosaves/PackageRestoreData.json
+UE4/LD42_SBMNSA/Intermediate/CachedAssetRegistry.bin
+>>>>>>> 712a7cce6646fec6fe2ca0cfb7009fe9fe05e325
